@@ -2,7 +2,7 @@
 according to the address library infomation is parsed from the address string
 
 # steps
-npm install 
+npm install <br/>
 node ./app.js
 
 # Demo
