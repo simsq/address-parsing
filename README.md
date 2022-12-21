@@ -1,5 +1,5 @@
 # address-parsing
-according to the address library infomation is parsed from the address string
+字符串地址解析成标准格式，可服务端部署，API接口调用。
 
 # steps
 npm install <br/>
