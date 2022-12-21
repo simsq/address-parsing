@@ -1,7 +1,7 @@
 # address-parsing
 字符串地址解析成标准格式，可服务端部署，API接口调用。
 
-# Dtep
+# Step
 npm install <br/>
 node ./app.js
 
