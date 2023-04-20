@@ -1,5 +1,5 @@
 # address-parsing
-字符串地址解析成标准格式，可服务端部署，API接口调用。
+字符串地址解析成标准格式,提取送货人、提取手机号，可服务端部署，API接口调用。
 
 # Step
 npm install <br/>
